@@ -8,3 +8,4 @@ return array($a,$b,$c);
 list($one,$two,$three)=AddFive();
 echo "a=$one <br> b=$two<br>c=$three";
 ?>
+ 
