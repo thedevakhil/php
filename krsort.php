@@ -5,3 +5,4 @@ foreach($age as $key=>$value){
 echo $key.":".$value."<br>";
 }
 ?>
+ 
